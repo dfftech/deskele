@@ -44,3 +44,4 @@ testem.log
 Thumbs.db
 /src
 /dist
+package-lock.json
